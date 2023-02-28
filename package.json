@@ -1,0 +1,15 @@
+{
+  "name": "midi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "easymidi": "^3.0.1",
+    "midi": "^2.0.0"
+  }
+}
